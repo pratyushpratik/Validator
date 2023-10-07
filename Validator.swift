@@ -2,7 +2,7 @@
 //  Validator.swift
 //  Bar Finder
 //
-//  Created by Shivang Mishra on 01/02/17.
+//  Created by Pratyush Pratik on 01/02/17.
 //  Copyright © 2017 Code Brew. All rights reserved.
 //
 
